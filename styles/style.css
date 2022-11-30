@@ -1,0 +1,57 @@
+body{
+    background-color: #e7e7e7;
+}
+
+.main-div{
+    width: 50%;
+    margin: auto;
+    margin-top: 60px;
+    padding: 25px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.main-div form h1{
+    margin-bottom:75px;
+}
+
+.main-div form input{
+    width: 20%;
+    padding: 10px;
+    font-size: 18px;
+    outline: none;
+    margin-inline: 20px ;
+}
+
+.main-div button{
+    width: 30%;
+    margin-top: 50px;
+    padding: 10px;
+    padding-inline: 10px;
+    font-size: 15px;
+    border-radius: 34px;
+    cursor: pointer;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.main-div button:hover{
+    background-color: black;
+    color: #fff;
+    transition: 0.6s;
+    border: 1px solid black;
+}
+
+.show-age{
+    width: 50%;
+    margin: auto;
+    margin-top: 25px;
+    background-color: #ccc;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    border-radius: 34px;
+    padding-inline: 20px;
+}
